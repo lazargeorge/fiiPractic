@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+=======
+carticica nr 1
+<<<<<<< HEAD
+=======
+carticica nr 2
+carticica nr 3
+>>>>>>> fd1b0d8... another commit(3)
+>>>>>>> 4caa184... another commit(3)
