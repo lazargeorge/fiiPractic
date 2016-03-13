@@ -1,7 +1,11 @@
 cap 1
 cap 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 cap 3
 cap 4
 >>>>>>> 4823050... comment 2
+=======
+cap 3
+>>>>>>> 4cb91f1... comment 1
